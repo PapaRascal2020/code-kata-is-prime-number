@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69c57acf-4901-48ec-985f-5b49ac53f2f1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrimeNumbers.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/PrimeNumbersTest.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/assignment.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrimeNumbers.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimeNumbers.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vendor/bin/.phpunit.result.cache" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/bin/.phpunit.result.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -107,7 +101,7 @@
       <workItem from="1655490519080" duration="273000" />
       <workItem from="1655490805674" duration="576000" />
       <workItem from="1655491395409" duration="6630000" />
-      <workItem from="1655502321099" duration="1283000" />
+      <workItem from="1655502321099" duration="3489000" />
     </task>
     <servers />
   </component>

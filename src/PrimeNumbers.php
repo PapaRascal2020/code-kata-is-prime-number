@@ -21,18 +21,14 @@ class PrimeNumbers
 
     public function check(int $number) : bool
     {
-        $timesDivisible = 0;
-
         if($number <= 1) return false;
         if($number === 2) return true;
 
-        for ($i=1; $i<=$number; $i++)
+        for ($i = 2; $i <= floor(sqrt($number)); $i++)
         {
-            if (($number % $i) === 0) $timesDivisible++;
+            if ($number % $i == 0) return False;
         }
 
-        return ($timesDivisible <= 2);
-    }
-
-
+        return true;
+     }
 }
